@@ -1,4 +1,4 @@
-# Laravel API Demo
+# Simple Laravel API with Job Queue, Database, and Event Handling
 
 ## Setup Instructions
 
